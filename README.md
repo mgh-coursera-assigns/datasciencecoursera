@@ -1,4 +1,4 @@
-CRSR-DtSc-TDSTB
+datasciencecoursera
 ===============
 
 Coursera work: The Data Scientist's Toolbox
