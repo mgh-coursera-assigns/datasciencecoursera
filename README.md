@@ -3,5 +3,8 @@ datasciencecoursera
 
 Coursera work: The Data Scientist's Toolbox
 
-https://class.coursera.org/datascitoolbox-004/
+<s>https://class.coursera.org/datascitoolbox-004/</s>
+
+https://www.coursera.org/learn/data-scientists-tools
+
 
